@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.Socket;
 
-public class factorialClient {
+public class factorialClient { 
     public static void main(String[] args) {
         try {
             System.out.println("Connecting to server...");
